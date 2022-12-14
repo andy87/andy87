@@ -1,16 +1,17 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=andy87&langs_count=5">  
 
-<!--
-**andy87/andy87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Andrey `and_y87` Kidin
+<img align='left' src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+%26+Game+developer................." style="display:block">
+<sub><br><br></sub>
 
-Here are some ideas to get you started:
+#### Front skills.  
+* **back-end**: PHP, C#, Python  
+* **front-end**: JavaScript, HTML, CSS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects:  
+* [Curl Requester](https://github.com/andy87/curl-requester) <sup>(cURL Adapter)</sup>
+* [Nano](https://github.com/andy87/nano-framework)  <sup>(simple php framework)</sup>
+
+#### Contacts:
+* Telegram: [@and_y87](https://t.me/and_y87)
+* Site: [andy87.ru](https://andy87.ru)
