@@ -7,6 +7,6 @@
   * **front-end**: JavaScript, HTML, CSS  
 * Projects:  
   * [Curl Requester](https://github.com/andy87/curl-requester) <sup>(cURL Adapter)</sup>  
-  * [Nano](https://github.com/andy87/nano-framework)  <sup>(simple php framework)</sup> [App](https://github.com/andy87/nano-app) 
+  * [Nano](https://github.com/andy87/nano-framework)  <sup>(simple php framework) [App](https://github.com/andy87/nano-app)</sup>  
 
 [andy87.ru](https://andy87.ru)  
