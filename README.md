@@ -30,3 +30,8 @@
 
 
 [andy87.ru](https://andy87.ru)  
+
+### How to contact me :mailbox:
+[![Web Site](https://img.shields.io/badge/site-andy87.ru-blue)](https://andy87.ru)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/and_y87)
+[![Telegram Badge](https://img.shields.io/badge/%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/id806034)
