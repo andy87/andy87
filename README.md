@@ -2,14 +2,6 @@
 
 ## Andrey [and_y87](https://t.me/and_y87) Kidin
 
-* Skills:
-    * **back-end**: PHP, C#, Python
-    * **front-end**: JavaScript, HTML, CSS
-* Projects:
-    * [Curl Requester](https://github.com/andy87/curl-requester) <sup>(cURL Adapter)</sup>
-    * [Nano](https://github.com/andy87/nano-framework)  <sup>(simple php framework) [App](https://github.com/andy87/nano-app)</sup>
-
-
 ### Languages:
 | PHP | JS | C# | Python | Go | HTML | CSS |
 |----------|----------|----------|----------|----------|----------|----------|
