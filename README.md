@@ -12,9 +12,9 @@
 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃  
   
 ### 🎓 Languages:
-| PHP | JS | C# | Python | Go | HTML | CSS |
+| PHP | JS | HTML | CSS | C# | Python | Go |
 |----------|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width=55 height=55> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="JavaScript" alt="JavaScript" width=55 height=55 > | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="c#"  alt="c#" width=55 height=55 >|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"   title="Python" alt="Python" width=55 height=55>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Go" alt="Go Lang" width=55 height=55>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width=55 height=55 > | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width=55 height=55 > |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width=55 height=55> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width=55 height=55 > | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width=55 height=55 > | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width=55 height=55 > | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="c#"  alt="c#" width=55 height=55 >|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"   title="Python" alt="Python" width=55 height=55>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Go" alt="Go Lang" width=55 height=55>|
   
 ### 🛠️ Best frameworks for Web development:
 | Yii2 | Laravel | Symfony | Vue | jQuery |
