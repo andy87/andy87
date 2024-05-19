@@ -1,6 +1,8 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=andy87&langs_count=5&hide_title=true">  
 
 ## Andrey [and_y87](https://t.me/and_y87) Kidin
+
+Man who like web & game development.
   
 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃   
   
