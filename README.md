@@ -6,8 +6,8 @@
   
 🌍 **Location :** Russia Moscow :(  
 😎 **Position :** Senior Full-Stack Developer  
-🚀 **Company :** www.fraxis.ru  
-💎 **Experience** 12+ year  
+💼 **Company :** www.fraxis.ru  
+🚀 **Experience** 12+ year  
   
 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃  
   
