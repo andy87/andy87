@@ -6,10 +6,10 @@ Man who like web & game development.
   
 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃   
   
-🌍 **Location :** Russia Moscow :(  
+🌍 **Location :** <a href="https://www.google.ru/maps/place/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F/" target="_blank">Russia</a>, <a href="https://www.google.ru/maps/place/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0/@55.5810336,36.7262267,9z/" target="_blank">Moscow</a>  
 😎 **Position :** Senior Full-Stack Developer  
 💼 **Company :** www.fraxis.ru  
-🚀 **Experience** 12+ year  
+🚀 **Experience** hobby 20+ / profession 12+ year  
   
 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃  
   
@@ -36,7 +36,7 @@ Man who like web & game development.
 ### 🎮 Favorite GameDev Engine:
 | Unity | Unreal | Godot | 
 |----------|----------|----------|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="Unity" alt="Unity" width=55 height=55> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg"  title="Unreal Engine" alt="Unreal Engine" width=55 height=55> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" title="Godot" alt="Godot" width=55 height=55> | 
+|<a href="https://unity.com/ru/products/unity-engine" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="Unity" alt="Unity" width=55 height=55></a> | <a href="[https://unity.com/ru/products/unity-engine](https://www.unrealengine.com/en-US/unreal-engine-5)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width=55 height=55></a> | <a href="https://godotengine.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" title="Godot" alt="Godot" width=55 height=55></a> | 
 
 
 [andy87.ru](https://andy87.ru)  
