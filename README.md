@@ -10,6 +10,9 @@ Man who like web & game development.
 😎 **Position :** Senior Full-Stack Developer  
 💼 **Company :** www.fraxis.ru  
 🚀 **Experience** hobby 20+ / profession 12+ year  
+
+  _The main language is PHP, the second is JS & C#_  
+  _The main direction is Web development, the second GameDev_
   
 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃  
   
