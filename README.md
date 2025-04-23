@@ -23,6 +23,7 @@ Man who like web & game development.
 
   
 ### 🛠️ Frameworks for Web development:
+Yii2 evangelist  
 | Yii2 (99%) | Laravel (30%) | Symfony (20%) | Vue (30%) | jQuery (99%) |
 |----------|----------|----------|----------|----------|
 | <a href="https://www.yiiframework.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original.svg" title="Yii2" alt="Yii2" width=55 height=55></a> | <a href="https://laravel.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width=55 height=55></a> | <a href="https://symfony.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width=55 height=55></a> | <a href="https://vuejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width=55 height=55></a> | <a href="https://jquery.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width=55 height=55></a> |
