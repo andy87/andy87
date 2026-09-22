@@ -8,7 +8,6 @@ Man who like web & game development.
   
 🌍 **Location :** <a href="https://www.google.ru/maps/place/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F/" target="_blank">Russia</a>, <a href="https://www.google.ru/maps/place/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0/@55.5810336,36.7262267,9z/" target="_blank">Moscow</a>  
 😎 **Position :** Senior Full-Stack Developer  
-💼 **Company :** www.fraxis.ru  
 🚀 **Experience** 12+ year  
 
   _The main language is PHP, the second is JS & C#_  
