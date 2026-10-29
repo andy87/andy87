@@ -19,7 +19,8 @@ Man who like web & game development.
 | PHP (99%) | JS (90%) | HTML (99%) | CSS (95%) | C# (80%) | Python (75%) | Go (55%) |
 |----------|----------|----------|----------|----------|----------|----------|
 | <a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width=55 height=55></a> | <a href="https://javascript.ru/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width=55 height=55 ></a> | <a href="https://html.com/html5/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width=55 height=55 ></a> | <a href="https://www.w3.org/Style/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width=55 height=55 ></a> | <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="c#"  alt="c#" width=55 height=55 ></a> | <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width=55 height=55></a> | <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Go" alt="Go Lang" width=55 height=55></a>  |
-% - совокупность: на сколько "глубоко" знаю технологию и как часто её использую.
+
+
 
   
 ### 🛠️ Frameworks for Web development:
@@ -43,7 +44,7 @@ Yii2 evangelist
 |----------|----------|----------|
 |<a href="https://unity.com/ru/products/unity-engine" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="Unity" alt="Unity" width=55 height=55></a> | <a href="https://www.unrealengine.com/en-US/unreal-engine-5" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width=55 height=55></a> | <a href="https://godotengine.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" title="Godot" alt="Godot" width=55 height=55></a> | 
 
-% - совокупность частоты использования и знаний технологии
+% - совокупность: на сколько "глубоко" знаю технологию и как часто её использую.
 
 ### How to contact me :mailbox:
 [![Web Site](https://img.shields.io/badge/site-andy87.ru-blue)](https://andy87.ru)
